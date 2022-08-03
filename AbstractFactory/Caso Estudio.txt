@@ -1,0 +1,12 @@
+*La fabrica de cosmeticos*
+
+Un cosmeticos esta compuesto de dos principales:
+
+Sus activos que le brindan las caraterisicas y propiedades al producto 
+Su base donde esta estabilizado el producto
+
+En este ejemplo tenemos 3 tipos de bases y 2 mezclas de activos que para generar ordenes de 
+producción dentro de una fabrica de cosmeticos
+
+Para este caso en especifico se genero un ejemplo sencillo donde se interactuan dos lineas de producción 
+donde en una se puede evidenciar la intención de manofacturar un prodcuto o el otro. 

@@ -1,0 +1,6 @@
+*La intención de Compra*
+
+En una empresa de Ecomerce es muy importate saber el estado de un carrito de compras, 
+esto le permite a la empresa establecer acciones de mejoras para aumentar el numero de 
+ventas ejecutadas. Este carrito de compras pasa por multiples estados durante el proceso 
+de compora, asi como el proceso que este tiene cuando es abandonado. 
